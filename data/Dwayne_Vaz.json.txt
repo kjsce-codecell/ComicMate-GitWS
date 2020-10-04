@@ -1,0 +1,7 @@
+{
+    "name": "Dwayne Vaz",
+    "title": "Rick and Morty",
+    "quote_1": "Wubba",
+    "quote_2": "Lubba",
+    "quote_3": "Dubdub"
+}
