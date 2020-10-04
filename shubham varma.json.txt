@@ -1,7 +1,0 @@
-{
-    "name": "shubham varma",
-    "title": "wings on fire ",
-    "quote_1": "codecell is great",
-    "quote_2": "i want to be the part of codecell",
-    "quote_3": "thanks codecell"
-}
