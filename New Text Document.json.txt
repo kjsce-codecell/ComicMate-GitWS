@@ -1,7 +1,0 @@
-{
-    "name": "Rohan Chavan",
-    "title": "Micheal Scott",
-    "quote_1": "iF i have hitler bin laden and toby in the room",
-    "quote_2": "And i have to bullets",
-    "quote_3": "i will shoot toby twice"
-}
