@@ -1,0 +1,7 @@
+{
+    "name": "Siddhika",
+    "title": "hi",
+    "quote_1": "Waddup?",
+    "quote_2": "Quote 2",
+    "quote_3": "Quote 3"
+}
